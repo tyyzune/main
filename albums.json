@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Quem é o Boss?",
+    "coverUrl": "https://i.postimg.cc/BvMJ0M0f/W.webp",
+    "jsonUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repo/main/json/musicas_boss.json"
+  },
+  {
+    "id": "2",
+    "title": "Flashback",
+    "coverUrl": "https://i.postimg.cc/BvMJ0M0f/W.webp",
+    "jsonUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repo/main/json/musicas_flashback.json"
+  }
+]
